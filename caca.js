@@ -4,7 +4,7 @@ let e = 2
 
 console.log("cyka blyat")
 if(e+f = 3){
-  console.log("cachcal baby")
+  console.log(" baby")
   
   console.log(" baby")
 }
